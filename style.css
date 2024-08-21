@@ -4,7 +4,7 @@ body {
 h2 {
     font-size: 20pt;
     color: white;
-    background-image: linear-gradient(to left , #eeca9b , #c12434);
+    background-image: linear-gradient(to left , #d5d04c27 , #c12434);
     padding: 5px 0px 5px auto;
     border-radius: 4px;
     margin: 10px 0px 10px 0px;
@@ -17,6 +17,6 @@ p {
 }
 
 h1 {
-    background-image: linear-gradient(to left , #eeca9b , #c12434);
+    background-image: linear-gradient(to left , #d5d04c27 , #c12434);
     color: white;
 }
