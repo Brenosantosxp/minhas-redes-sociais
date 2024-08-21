@@ -1,10 +1,10 @@
 body {
-    background-image: linear-gradient(to left , #F4F1BB , #f88e99ff);
+    background-image: linear-gradient(to left , #f5f1a7 , #f88e99ff);
 }
 h2 {
     font-size: 20pt;
     color: white;
-    background-image: linear-gradient(to left , #f0eae2 , #c01e2e);
+    background-image: linear-gradient(to left , #f3d8b4 , #c01e2e);
     padding: 5px 0px 5px auto;
     border-radius: 4px;
     margin: 10px 0px 10px 0px;
@@ -17,6 +17,6 @@ p {
 }
 
 h1 {
-    background-image: linear-gradient(to left , #f0eae2 , #c01e2e);
+    background-image: linear-gradient(to left , #f3dec4 , #c01e2e);
     color: white;
 }
